@@ -1,2 +1,2 @@
-Aprendiendo Python y Django.
+
 
